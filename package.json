@@ -1,0 +1,19 @@
+{
+  "name": "kelly-nguyen-aca-dash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelly-tnguyen/aca-dash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelly-tnguyen/aca-dash/issues"
+  },
+  "homepage": "https://github.com/kelly-tnguyen/aca-dash#readme"
+}
